@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Oktapodia's github stats](https://github-readme-stats.vercel.app/api?username=oktapodia&theme=tokyonight&count_private=true&include_all_commits=true)
+![Oktapodia's github stats](https://github-readme-stats-two-zeta-46.vercel.app/api?username=oktapodia&theme=tokyonight&count_private=true&include_all_commits=true)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastienbramille/) 
